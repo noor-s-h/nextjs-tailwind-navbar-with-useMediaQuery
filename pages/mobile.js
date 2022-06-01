@@ -1,7 +1,3 @@
 export default function Mobile() {
-    return (
-        <>
-            Mobile
-        </>
-    )
+  return <>Mobile</>;
 }

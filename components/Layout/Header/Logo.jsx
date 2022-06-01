@@ -1,9 +1,9 @@
-import Link from "components/Link"
+import Link from "components/Link";
 
 export default function Logo() {
-    return (
-        <Link linkClass="text-lg" href="/">
-                Logo
-        </Link>
-    )
+  return (
+    <Link linkClass="text-lg" href="/">
+      Logo
+    </Link>
+  );
 }

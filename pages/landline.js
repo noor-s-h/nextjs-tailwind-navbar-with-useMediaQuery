@@ -1,7 +1,3 @@
 export default function Landline() {
-    return (
-        <>
-            Landline
-        </>
-    )
+  return <>Landline</>;
 }
