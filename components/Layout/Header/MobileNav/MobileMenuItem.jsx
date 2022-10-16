@@ -3,7 +3,7 @@ import MobileDropDown from "./MobileDropDown";
 import Link from "components/Link";
 import ChevronRight from "components/icons/ChevronRight";
 
-export default function MobileMenu({ title, label, href, childrens }) {
+export default function MobileMenuItem({ title, label, href, childrens }) {
   const [dropdown, setDropdown] = useState(false);
 
   const toggleDropDown = () => {
